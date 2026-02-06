@@ -271,6 +271,7 @@ CONFIGS = [
     "npzfdcof;TS0001-TLED;BD2u;LC3i;SB5u;RB4;",
     "rfexs4vs;TS0001-C;BA0u;LC0;SB4u;RC2;",
     "zbfya6h0;TS0002-C;BA0u;LC0;SB4u;RC2;SB5u;RC3;",
+    "5sssic9d;TS0012-C;BA0f;LD7;SC2f;RC0;SC3f;RB4;",
     "skueekg3;WHD02-custom;BB1u;LB4i;SD2u;RD3;",
     "Tuya-WHD02-custom;WHD02-custom;BB1u;LB4i;SD2u;RD3;",
     "skueekg3;WHD02-custom;BB1u;LB4i;SD2u;RD3;",
